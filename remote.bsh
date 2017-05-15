@@ -1,0 +1,6 @@
+!#/bin/bash
+git remote add origin https://github.com/vereng/hello_world.git;
+git push -u origin master;
+
+
+
