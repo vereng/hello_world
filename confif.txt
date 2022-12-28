@@ -1,4 +1,4 @@
 #!/bin/bash
 git config --global user.name "vereng";
-git config --global user.email vereng@shaw.ca;
+git config --global user.email myemail@gmail.com;
 echo -n "succesfully configured";
